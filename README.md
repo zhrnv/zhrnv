@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/884520876324819038/1373953813035089973/641939f41326c9099132f8ff7d8a5cd9.mp4.gif?ex=682c49b3&is=682af833&hm=33be1dc6a14685e986b8a58596f855c42f47c672eddf4471524f05ac1969bcd9&=&width=1120&height=630" />
+  <img height="200" src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" />
 </div>
 
 ###
